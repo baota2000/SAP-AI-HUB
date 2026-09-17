@@ -1,0 +1,22 @@
+node_modules/
+.DS_Store
+
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>SAP AI Digital Hub</title><link rel="stylesheet" href="style.css"></head><body><header><h1>SAP + AI + 企业数字化</h1><p>帮助企业利用 SAP 与 AI 实现价值增长</p></header><nav><a href="#sap">SAP</a><a href="#ai">AI</a><a href="#dx">数字化</a></nav><section><h2>核心内容</h2><div class="card"><h3>SAP最佳实践</h3></div><div class="card"><h3>AI落地案例</h3></div><div class="card"><h3>数字化转型路线图</h3></div></section><footer>© Jason Digital Hub</footer></body></html>
+# SAP + AI + 企业数字化
+
+面向SAP顾问、企业架构师和数字化转型负责人。
+
+## 盈利模式
+- Google AdSense
+- SAP培训课程
+- 企业咨询服务
+- 联盟营销
+
+## 栏目
+- SAP
+- AI
+- 企业数字化
+- 案例研究
+- 资源下载
+
+body{font-family:Arial;margin:0;background:#f4f6f8}header{background:#0f172a;color:white;padding:40px;text-align:center}nav{padding:15px;background:#1e293b}nav a{color:white;margin-right:15px;text-decoration:none}.card{background:white;margin:20px;padding:20px;border-radius:10px}footer{text-align:center;padding:20px}
